@@ -4,7 +4,7 @@
 
  Projeto de site feito no curso da Fundação Bradesco.
  
- linguagens: HTML, CSS e JavaScript.
+Competências: HTML, CSS e JavaScript.
  
  
  
