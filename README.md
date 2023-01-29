@@ -1,6 +1,6 @@
 # Site
 
-## Site simples com interatividade do modo light para o dark.
+## Site simples com interatividade do modo dark.
 
  Projeto de site feito no curso da Fundação Bradesco.
  
